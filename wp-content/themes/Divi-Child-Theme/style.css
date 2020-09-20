@@ -1,0 +1,36 @@
+		
+#logo {
+  max-height: 80%;}/*
+ Theme Name:  Divi Child Theme
+ Theme URI:    https://divilife.com
+ Description:  Child Theme for Divi
+ Author:       Branko Vlahov
+ Author URI:   https://divilife.com
+ Template:     Divi
+ Version:      1.0.0
+*/
+
+/*****Add any custom CSS below this line*****/
+
+		
+#logo {
+  max-height: 80%;}
+
+@media (max-width: 1024px) {
+
+#menu-item-6010 {
+  background-color: white;}
+  
+  #menu-item-6085 {
+  background-color: white;}
+  
+  #menu-item-6008 {
+  background-color: white;}
+  
+  #menu-item-6009 {
+  background-color: white;}
+  
+
+ }
+
+
